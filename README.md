@@ -1,4 +1,4 @@
-# ai-rag-doc
+# ai-rag-pdf
 
 ### Demo
 
