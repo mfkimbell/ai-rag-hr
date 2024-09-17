@@ -1,5 +1,9 @@
 # ai-rag-hr
 
+### Demo
+
+![demo-ezgif com-speed](https://github.com/user-attachments/assets/da96d8f1-0f08-40f1-9b09-fe73a8690cb2)
+
 
 
 ### Local Testing
