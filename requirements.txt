@@ -1,0 +1,8 @@
+flask-sqlalchemy
+pypdf
+faiss-cpu  # or faiss-gpu if you need GPU support
+langchain-community
+boto3
+streamlit
+langchain-aws
+python-dotenv  # Add this for loading .env files
