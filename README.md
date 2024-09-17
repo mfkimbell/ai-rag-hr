@@ -1,4 +1,4 @@
-# ai-rag-hr
+# ai-rag-doc
 
 ### Demo
 
