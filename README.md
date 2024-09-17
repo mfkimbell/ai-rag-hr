@@ -15,13 +15,13 @@ git clone https://github.com/mfkimbell/ai-rag-hr.git
 2. **Pull the Docker Image:**
 
     ```bash
-    docker pull mfkimbell/ai-rag-doc:newversion
+    docker pull mfkimbell/ai-rag-doc:latest
     ```
 
 2. **Run the Docker Container:**
 
     ```bash
-    docker run --env-file .env -p 8501:8501 mfkimbell/ai-rag-doc:newversion
+    docker run --env-file .env -p 8501:8501 mfkimbell/ai-rag-doc:latest
     ```
 
     Ensure that you have a `.env` file with the necessary environment variables.
