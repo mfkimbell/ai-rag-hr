@@ -1,10 +1,21 @@
 # ai-rag-pdf
 
+### Architechture
+<img width="1205" alt="rag_arch" src="https://github.com/user-attachments/assets/29c9b5a1-cdb1-4007-874b-447f282145f9">
+
 ### Demo
 
 ![demo-ezgif com-speed](https://github.com/user-attachments/assets/da96d8f1-0f08-40f1-9b09-fe73a8690cb2)
 
+### Tools Used
 
+* `PyPDFLoader` - Lanchain library for loading pdf data
+* `FAISS` - Vector Storage and simliarity search through Langchain
+* `Titan Text v1` - Creating text embeddings
+* `Bedrock` - LangChain module for integrating with AWS Bedrock for LLM interactions.
+* `Streamlit` - Framework for building interactive web applications (particularly in data science)
+* `Docker` - Containerization platform used for running the application locally.
+* `Claude-v2` - Large language model used
 
 ### Local Testing
 
