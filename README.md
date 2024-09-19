@@ -1,7 +1,7 @@
 # ai-rag-pdf
 
 ### Architechture
-<img width="1205" alt="rag_arch" src="https://github.com/user-attachments/assets/29c9b5a1-cdb1-4007-874b-447f282145f9">
+<img width="805" alt="rag_arch" src="https://github.com/user-attachments/assets/29c9b5a1-cdb1-4007-874b-447f282145f9">
 
 ### Demo
 
