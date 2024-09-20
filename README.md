@@ -17,6 +17,9 @@
 * `Docker` - Containerization platform used for running the application locally.
 * `Claude-v2` - Large language model used
 
+### Imporant to note
+* Chunking size mattered a lot here, apparenlty 300-500 is recommended for resumes to give it more context 
+
 ### Local Testing
 
 To test the application locally, follow these steps:
